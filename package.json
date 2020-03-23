@@ -1,0 +1,21 @@
+{
+	"name": "cra-template-reduxito",
+	"version": "1.0.3",
+	"description": "My cra redux template. My initial starter kit for redux projects react, redux, router.",
+	"main": "template.json",
+	"keywords": [ "react", "redux", "create-react-app", "template", "starter", "reminder", "boilerplate", "snippers" ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/andresmntr/andrius-redux-template.git"
+	},
+	"license": "MIT",
+	"author": "AMR",
+	"engines": {
+		"node": ">=8"
+	},
+	"bugs": {
+		"url": "https://github.com/andresmntr/andrius-redux-template/issues"
+	},
+	"homepage": "https://github.com/andresmntr/andrius-redux-template#readme",
+	"files": [ "template", "template.json" ]
+}
